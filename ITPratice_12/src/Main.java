@@ -70,7 +70,7 @@ public class Main {
                     t = 0;
                     break;
                 default:
-                    System.out.println("Чисел такого цвета в матрице нет, введите корректное значение (ч - черный, б - белый)");
+                    System.out.println("Чисел такого цвета в матрице нет");
             }
         }
         for (int i = 0; i < 8; i++)
